@@ -1,0 +1,36 @@
+h1 {
+    font-family: fantasy;
+    color: greenyellow;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: limegreen;
+    text-align: center;
+    text-shadow: 4px 4px red;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: limegreen;
+}
+
+#border {
+    border: 10px solid turquoise;
+    padding: 15px;
+}
+
+h2 {
+    font-weight: 1000;
+    color: pink;
+}
+
+th {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gold;
+}
+
+body {
+    background-image: url("https://media1.tenor.com/m/HWdqkCKHX-AAAAAd/cool-fun.gif");
+    background-size: cover;
+   }
